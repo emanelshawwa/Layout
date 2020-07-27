@@ -1,0 +1,396 @@
+.nav{
+  width:100%;
+  height: 66px;
+  border: 1px solid black;
+}
+.leftNav{
+    display:inline-block;
+    margin-top:7px;
+    margin-left:7px;
+}
+.rightNav{
+    display:inline-block;
+     margin-left:300px;
+}
+.logo{
+    display:inline-block;
+    width:100px;
+    height:42px;
+    border: 1px solid red;
+}
+.search{
+    display:inline-block;
+    width:264px;
+    height:42px;
+    border: 1px solid red;
+}
+.category{
+    display:inline-block;
+    width:150px;
+    height:42px;
+    border: 1px solid red;
+}
+.type{
+    display:inline-block;
+    width:150px;
+    height:42px;
+    border: 1px solid red;
+}
+.job{
+    display:inline-block;
+    width:150px;
+    height:42px;
+    border: 1px solid red;
+}
+.signUp{
+     display:inline-block;
+    width:150px;
+    height:42px;
+    border: 1px solid red;
+}
+.logIn{
+    display:inline-block;
+    width:100px;
+    height:42px;
+    border: 1px solid red;
+}
+.en{
+    display:inline-block;
+    width:80px;
+    height:42px;
+    border: 1px solid red;
+}
+.section1{
+    width:100%;
+    height:420px;
+    border: 1px solid black;
+}
+.header{
+    display:inline-block;
+    width:750px;
+    height:320px;
+    border: 1px solid red;
+    margin-left:70px;
+    margin-top:45px;
+}
+.table{
+
+    display:inline-block;
+    width:550px;
+    height:320px;
+    border: 1px solid red;
+}
+.head{
+    margin-left:20px;
+    margin-top:10px;
+    width:525px;
+    height:65px;
+    border: 1px solid red;
+}
+.paraghraph{
+    margin-left:20px;
+    margin-top:10px;
+    width:425px;
+    height:65px;
+    border: 1px solid red;
+}
+.signUpNow{
+    margin-left:20px;
+    margin-top:40px;
+    width:200px;
+    height:50px;
+    border: 1px solid red;
+}
+.emergency{
+    margin-left:20px;
+    margin-top:40px;
+    width:400px;
+    height:10px;
+    border: 1px solid red;
+}
+.firstRow,.secondRow, .thirdRow{
+    margin-bottom:11px;
+    margin-left:100px;
+}
+.firstRow div,.secondRow div ,.thirdRow div {
+    display:inline-block;
+    width:100px;
+    height:95px;
+    border: 1px solid red;
+    
+}
+.courseTypes{
+  
+    width:100%;
+    height:60px;
+    border: 1px solid black;
+}
+.courseTypes1{
+    margin-left:450px;
+    margin-top:30px;
+}
+.coursesListing{
+    width:100%;
+    height:500px;
+    border: 1px solid black;
+}
+.courseList1,.courseList2{
+    display:inline-block;
+    width:250px;
+    height:375px;
+     border: 1px solid black;
+     margin-left:10px;
+     margin-top:20px;
+}
+.courseList1Buttons{
+    width:100%;
+    height:20px;
+    border: 1px solid red;
+    margin-top:15px;
+}
+.courseList1Header{
+    width:100%;
+    height:40px;
+    border: 1px solid red;
+    margin-top:15px;
+}
+.courseList1Submit{
+    width:100%;
+    height:40px;
+    border: 1px solid red;
+    margin-top:50px;
+}
+
+.courseList2Icons{
+    width:100%;
+    height:40px;
+    border: 1px solid red;
+   
+}
+.courseList2Header{
+    width:100%;
+    height:40px;
+    border: 1px solid red;
+    margin-top:15px;
+}
+.courseList2Advance{
+    width:100%;
+    height:20px;
+    border: 1px solid red;
+    margin-top:15px;
+}
+.courseList2Parag{
+    width:100%;
+    height:70px;
+    border: 1px solid red;
+    margin-top:15px;
+}
+.courseList2Info{
+    width:100%;
+    height:20px;
+    border: 1px solid red;
+    margin-top:15px;
+}
+.courseList2Submit{
+     width:100%;
+    height:40px;
+    border: 1px solid red;
+    margin-top:50px;
+}
+/*.healthBtn{
+   display:inline-block;
+   width:60px;
+   height:10px;
+   border:1px solid red;
+   margin-top:3px;
+   margin-left:10px;
+}*/
+
+/*.certifacteBtn{
+   display:inline-block;
+   width:80px;
+   height:10px;
+   border:1px solid red;
+   margin-top:3px;
+   margin-left:10px;
+}*/
+.img{
+    width:100%;
+    height:166px;
+     border: 1px solid red;
+}
+.courseTypes div{
+    
+    display:inline-block;
+    width:210px;
+    height:30px;
+    border: 1px solid red;
+}
+.statics{
+    width:100%;
+    height:185px;
+    border: 1px solid black;
+}
+.statics1{
+    margin-left:390px;
+    margin-top:50px;
+}
+.statics1, .statics2, .statics3, .statics4{
+    display:inline-block;
+    width:200px;
+    height:110px;
+    border: 1px solid red;
+}
+.icon{
+    width:30px;
+    height:30px;
+    border: 1px solid red;
+    margin:auto;
+    margin-top:5px;
+}
+.amount{
+    width:100px;
+    height:20px;
+    border: 1px solid red;
+    margin:auto;
+     margin-top:5px;
+}
+.number{
+    width:100px;
+    height:20px;
+    border: 1px solid red;
+    margin:auto;
+    margin-top:5px;
+}
+.startLearning{
+    width:100%;
+    height:450px;
+    border: 1px solid black;
+    
+}
+.moreData{
+    width:100%;
+    height:280px;
+    border: 1px solid black;
+   
+}
+.about{
+    margin-left:290px;
+    margin-top:30px;
+}
+.learning,.more,.connect{
+     margin-left:20px;
+}
+.about, .learning,.more,.connect{
+    display:inline-block;
+    width:215px;
+    height:220px;
+    border: 1px solid red;
+   
+}
+.footer{
+    width:100%;
+    height:70px;
+    border: 1px solid black;
+}
+.footerLogo{
+    display:inline-block;
+    width:135px;
+    height:42px;
+    border: 1px solid red;
+    margin-left:100px;
+    margin-top:15px;
+}
+.footerNav{
+    display:inline-block;
+    width:500px;
+    height:42px;
+    border: 1px solid red;
+    margin-left:50px;
+}
+.imagesSection{
+    width:100%;
+    height:550px;
+    border: 1px solid black;
+}
+.image{
+    margin-left:20px;
+    margin-top:25px;
+    display:inline-block;
+    width:500px;
+    height:500px;
+    border: 1px solid red;
+}
+.imagesHeader{
+    display:inline-block;
+    width:400px;
+    height:380px;
+    border: 1px solid red;
+    margin-bottom:50px;
+    margin-left:15px;
+}
+.photos{
+    display:inline-block;
+    width:500px;
+    height:500px;
+    border: 1px solid red;
+    margin-left:50px;
+}
+.icons{
+    margin-top:30px;
+    margin-left:5px;
+    width:380px;
+    height:60px;
+    border: 1px solid red;
+}
+.advertisement{
+     margin-top:5px;
+     margin-left:5px;
+    width:380px;
+    height:200px;
+    border: 1px solid red;
+}
+.testimonials{
+    width:380px;
+    margin-left:5px;
+    height:34px;
+    border: 1px solid red;
+    margin-top:30px;
+}
+.startLearningHeader{
+    width:1270px;
+    height:60px;
+    border: 1px solid red;
+    margin:auto;
+   margin-top:150px;
+   margin-left:150px;
+   
+}
+.startLearningNow{
+    width:200px;
+    height:50px;
+    border: 1px solid red;
+    margin:auto;
+    margin-top:50px;     
+}
+.linkLists {
+    list-style-type:none;
+}
+.iconLists{
+     list-style-type:none;
+}
+.linkLists li {
+    border: 1px solid red;
+    width:160px;
+    height:19px;
+    margin-top:10px;
+   
+   
+}
+.iconLists li {
+     border: 1px solid red;
+    width:160px;
+    height:19px;
+    margin-top:10px;
+   
+}
